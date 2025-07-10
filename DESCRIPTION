@@ -10,3 +10,5 @@ LazyData: true
 Imports:
     Seurat (== 4.3.0),
     devtools
+URL: https://github.com/saipujit/myRpkg
+BugReports: https://github.com/saipujit/myRpkg/issues
